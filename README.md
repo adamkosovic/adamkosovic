@@ -16,7 +16,7 @@
 </p>
 
 - 🔭 I’m currently working on **improving my frontend and backend skills.**  
-- 🌱 I’m currently learning **Angular  
+- 🌱 I’m currently learning **Angular**
 - 📫 How to reach me: **adam.kosovic@icloud.com**  
 
 <br clear="both" />
